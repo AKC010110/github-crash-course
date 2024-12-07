@@ -24,3 +24,6 @@ git remote add origin <link> (connect local to cloud)
 git remote set-url origin  https://AKC010110@github.com/AKC010110/github-crash-course
 git push
 git pull (to download the files from github)
+git clone <link> <folder_name>
+git remote (we will see a list of all connected repositries)
+git remote set-url <repo_name> ---(link of the repo will be shown)
